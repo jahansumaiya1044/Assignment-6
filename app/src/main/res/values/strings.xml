@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recycler</string>
+    <string-array name="country_desc">
+        <item> Bangladesh is beautiful</item>
+        <item>Canada is beautiful</item>
+        <item>Japan is beautiful</item>
+    </string-array>
+</resources>
